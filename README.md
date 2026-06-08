@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI & ML Internship - Task 6
 
 ## Task
@@ -30,3 +31,7 @@ Iris Dataset
 ## Files Included
 - task6.ipynb
 - README.md
+=======
+# AI-ML-Task6
+K-Nearest Neighbors classification with feature normalization, model evaluation, and decision boundary visualization.
+>>>>>>> 867138a85169265c99b13d5a101245993ec9beda
